@@ -18,9 +18,7 @@
 **Lyran-Dasher** 是由 **ATOMIC** 打造的一款高节奏跑酷游戏。  
 在充满未来感的「灵域空间」*中，你将操控不同角色，穿梭于未知与挑战之间。
 
-- 「灵域空间」设定来源于《原栋大陆：中心城 Yontown Continent: Center City》
-
-> 速度 · 反应 · 极限突破
+> *「灵域空间」设定来源于《原栋大陆：中心城 Yontown Continent: Center City》
 
 ---
 
