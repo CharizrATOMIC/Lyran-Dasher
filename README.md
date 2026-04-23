@@ -2,7 +2,7 @@
 
 # Lyran-Dasher
 
-### *Run Beyond Limits in the Lyrium Space 在灵域空间中超越极限地奔跑*
+### *Run Beyond Limits in the Lyrium Space*
 
 ![status](https://img.shields.io/badge/status-in%20development-blue)
 ![engine](https://img.shields.io/badge/engine-Turbowarp/Scratch--VM-lightgrey)
