@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 Lyran-Dasher
+# Lyran-Dasher
 
-### *Run Beyond Limits in the Spiritual Realm*
+### *Run Beyond Limits in the Lyrium Space*
 
 ![status](https://img.shields.io/badge/status-in%20development-blue)
 ![engine](https://img.shields.io/badge/engine-unknown-lightgrey)
@@ -13,70 +13,57 @@
 
 ---
 
-## 🌌 Overview
+## Overview
 
 **Lyran-Dasher** 是由 **ATOMIC** 打造的一款高节奏跑酷游戏。  
-在充满未来感的「灵域空间」中，你将操控不同角色，穿梭于未知与挑战之间。
+在充满未来感的「灵域空间」*中，你将操控不同角色，穿梭于未知与挑战之间。
 
-> ⚡ 速度 · 反应 · 极限突破
+*「灵域空间」设定来源于《原栋大陆：中心城 Yontown Continent: Center City》
+
+> 速度 · 反应 · 极限突破
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
-- 🏃‍♂️ 高速奔跑，躲避动态障碍  
-- 🪜 跳跃穿越复杂地形  
-- 🎯 获取分数，刷新记录  
+- 高速奔跑，躲避动态障碍  
+- 跳跃穿越复杂地形  
+- 获取分数，刷新记录  
 
 不同障碍物将提供不同分数奖励，操作越精准，得分越高。
 
 ---
 
-## 🧠 Game Mechanics
+## Game Mechanics
 
-### ❤️ 生命系统
+### 生命系统
 - 角色拥有生命值  
 - 受到碰撞或失误将减少生命  
 - 当生命值归零 → 游戏结束  
 
-### 🎁 道具系统
+### 道具系统
 - 随机生成多种道具  
 - 每个道具触发不同事件  
 - 可能是强化，也可能改变局势  
 
-> 🎲 每一次拾取，都是一次未知的选择
+> 每一次拾取，都是一次未知的选择
 
 ---
 
-## 🕹️ Game Modes
+## Game Modes
 
-| Mode        | Description |
-|------------|------------|
-| 🧩 关卡模式 | 挑战设计好的关卡 |
-| 🎯 任务模式 | 完成目标获取奖励 |
-| ♾️ 无尽模式 | 不断冲刺突破极限 |
+|   Mode   |   Description   |
+|----------|-----------------|
+| 关卡模式 | 挑战设计好的关卡 |
+| 任务模式 | 完成目标获取奖励 |
+| 无尽模式 | 不断冲刺突破极限 |
 
 ---
 
-## 🧍 Characters
+## Characters
 
 - 多种角色可供选择  
 - 不同风格，不同体验  
 - 持续扩展中...  
 
 ---
-
-## 📸 Preview *(Coming Soon)*
-
-> 🚧 游戏截图 / GIF 演示即将加入
-
----
-
-## 📂 Project Structure
-
-```bash
-Lyran-Dasher/
-├── assets/        # 资源文件
-├── src/           # 游戏核心代码
-├── docs/          # 文档
-└── README.md
