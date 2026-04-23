@@ -5,9 +5,9 @@
 ### *Run Beyond Limits in the Lyrium Space*
 
 ![status](https://img.shields.io/badge/status-in%20development-blue)
-![engine](https://img.shields.io/badge/engine-unknown-lightgrey)
-![platform](https://img.shields.io/badge/platform-PC%20%7C%20Web-green)
-![license](https://img.shields.io/badge/license-MIT-orange)
+![engine](https://img.shields.io/badge/engine-Turbowarp/Scratch--VM-lightgrey)
+![platform](https://img.shields.io/badge/platform-PC%20%7C%20Android%20%7C%20Web-green)
+![license](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-orange)
 
 </div>
 
